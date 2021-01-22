@@ -37,11 +37,11 @@ export default {
 	},
 	globalData: {
 		api: {
-			login: 'https://f1086865-c582-4811-a6f8-b2e5c20b4a5f.bspapp.com/http/api/login',
-			cover: 'https://f1086865-c582-4811-a6f8-b2e5c20b4a5f.bspapp.com/http/api/cover',
-			coverDetail: 'https://f1086865-c582-4811-a6f8-b2e5c20b4a5f.bspapp.com/http/api/cover/detail',
-			lookVideo: 'https://f1086865-c582-4811-a6f8-b2e5c20b4a5f.bspapp.com/http/api/look/video',
-			inviteTrack: 'https://f1086865-c582-4811-a6f8-b2e5c20b4a5f.bspapp.com/http/api/invite/track',
+			login: 'https://70a8d004-4754-4b61-b957-7ef516d485e1.bspapp.com/http/api/login',
+			cover: 'https://70a8d004-4754-4b61-b957-7ef516d485e1.bspapp.com/http/api/cover',
+			coverDetail: 'https://70a8d004-4754-4b61-b957-7ef516d485e1.bspapp.com/http/api/cover/detail',
+			lookVideo: 'https://70a8d004-4754-4b61-b957-7ef516d485e1.bspapp.com/http/api/look/video',
+			inviteTrack: 'https://70a8d004-4754-4b61-b957-7ef516d485e1.bspapp.com/http/api/invite/track',
 		},
 		openid: '',
 	},
