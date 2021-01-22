@@ -37,7 +37,7 @@
                 "icon": "http://5b0988e595225.cdn.sohucs.com/images/20190123/d9dbc7295ee84f1dab526426690149f2.jpeg",
                 "minapp": {
                     "appid": "wxece3a9a4c82f58c9",
-                    "path": "pages/sharePid/web/index?scene=https://s.click.ele.me/wR9ecuu"
+                    "path": "pages/sharePid/web/index?scene=https://s.click.ele.me/hi5bFsu"
                 },
                 "name": "饿了么红包",
                 "desc": "最高56元",
@@ -50,7 +50,7 @@
                 "icon": "http://tb1.bdstatic.com/tb/r/image/2017-03-03/795fda7b64093fce5e5ed440d325a48f.jpeg",
                 "minapp": {
                     "appid": "wxde8ac0a21135c07d",
-                    "path": "/index/pages/h5/h5?lch=mhqIykekFEV63u81zLSTaQViQ&noshare=1&f_userId=0&f_openId=0&f_token=1&weburl=https%3A%2F%2Fact6.meituan.com%2Fclover%2Fpage%2Fadunioncps%2Fshare_coupon_new%3FutmSource%3D56020%26utmMedium%3D3D52DEF4438AE63F0FBF09E13E5B1B8E%26promotionId%3D21034%26activity%3DOwMkGzn6oK"
+                    "path": "/index/pages/h5/h5?weburl=https%3A%2F%2Frunion.meituan.com%2Furl%3Fkey%3Da144a9fa40a42c55af00214bb4bb3993971%26url%3Dhttps%253A%252F%252Fi.meituan.com%252Fawp%252Fhfe%252Fblock%252Fa13b87919a9ace9cfab4%252F89400%252Findex.html%253Fappkey%253Da144a9fa40a42c55af00214bb4bb3993971%253A8204dingdanxiadelivery%26sid%3D8204dingdanxiadelivery&f_token=1&f_userId=1"
                 },
                 "name": "美团外卖红包",
                 "desc": "最高48元",
@@ -63,20 +63,7 @@
                 "icon": "http://tb1.bdstatic.com/tb/r/image/2017-03-03/795fda7b64093fce5e5ed440d325a48f.jpeg",
                 "minapp": {
                     "appid": "wxde8ac0a21135c07d",
-                    "path": "/index/pages/h5/h5?lch=mhqIykekFEV63u81zLSTaQViQ&noshare=1&f_userId=0&f_openId=0&f_token=1&weburl=https%3A%2F%2Fact6.meituan.com%2Fclover%2Fpage%2Fadunioncps%2Fshare_coupon_new%3FutmSource%3D56020%26utmMedium%3D3D52DEF4438AE63F0FBF09E13E5B1B8E%26promotionId%3D21034%26activity%3DOwMkGzn6oK"
-                },
-                "name": "美团吃喝玩乐",
-                "desc": "百万补贴",
-                "tip": "先到先得",
-                "border": "",
-                "sort": 98,
-                "platform": "meituan"
-            },
-            {
-                "icon": "http://tb1.bdstatic.com/tb/r/image/2017-03-03/795fda7b64093fce5e5ed440d325a48f.jpeg",
-                "minapp": {
-                    "appid": "wxde8ac0a21135c07d",
-                    "path": "/index/pages/h5/h5?lch=mhqIykekFEV63u81zLSTaQViQ&noshare=1&f_userId=0&f_openId=0&f_token=1&weburl=https%3A%2F%2Fact6.meituan.com%2Fclover%2Fpage%2Fadunioncps%2Fshare_coupon_new%3FutmSource%3D56020%26utmMedium%3D3D52DEF4438AE63F0FBF09E13E5B1B8E%26promotionId%3D21034%26activity%3DOwMkGzn6oK"
+                    "path": "/index/pages/h5/h5?noshare=1&f_userId=0&f_openId=0&f_token=0&weburl=https%3A%2F%2Fact9.meituan.com%2Fclover%2Fpage%2Fadunioncps%2Fshare_coupon_new%3FutmSource%3D2055%26timestamp%3D1610771339%26utmMedium%3De0737116b4f9dfb327460b9e8afdb16c%26version%3D1.0%26showKa%3D1%26requestId%3Dabdf3a84ea830ffd1b3edcdf23e109ad%26activity%3DyknUrA9Rrx"
                 },
                 "name": "美团酒店红包",
                 "desc": "百万补贴",
