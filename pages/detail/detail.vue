@@ -61,7 +61,7 @@ export default {
 	},
 	onLoad(e) {
 		this.id = e.id
-		this.getCoverDetail(true)
+		// this.getCoverDetail(true)
 	},
 	onShow(e) {
 		this.getCoverDetail(false)
